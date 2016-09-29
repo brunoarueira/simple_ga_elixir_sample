@@ -27,6 +27,6 @@ defmodule SimpleGaElixirSample.Mixfile do
   #
   # Type "mix help deps" for more examples and options
   defp deps do
-    []
+    [{:random, "~> 0.2.3"}]
   end
 end

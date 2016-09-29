@@ -1,0 +1,2 @@
+%{"random": {:hex, :random, "0.2.3", "57e5d4cff643370a85d911646b927bb0d53960c66a8b97b3d6481669fd44797f", [:mix], [{:tinymt, "~> 0.3.1", [hex: :tinymt, optional: false]}]},
+  "tinymt": {:hex, :tinymt, "0.3.1", "1f835f3e8840b13daf9d11aa5be8deefcb0765d2bb82d5f52015b63d48eb016f", [:mix, :make], []}}
